@@ -1,4 +1,4 @@
-# my-project
+# Read and follow steps carefully to run program
 
 ## CLI Commands
 
